@@ -1,6 +1,6 @@
 # Hotel Ecole La Savoureuse
-![Page d'accueil de Restaurant la savoureuse](http://restaurant-lasavoureuse.com/storage/abouts/May2019/VXWu0UhUNlqioXMoZ9aM-cropped.JPG)
-# alcorhotels
+![Image de Hotel Ecole](https://github.com/davahiatak1/hotel-ecole-la-savoureuse/blob/master/HotelEcole.jpg)
+
 
 ## Initialisation
 
@@ -30,3 +30,8 @@ Créer un nouvel utilisateur administrateur comme suit :
 Pour accéder à la partie administration taper dan le navigateur 
 
 `localhost:8000/admin`
+
+
+
+## Présentation de la page d'accueil de Restaurant la savoureuse
+![Page d'accueil de Restaurant la savoureuse](https://github.com/davahiatak1/hotel-ecole-la-savoureuse/blob/master/Restaurant%20la%20savoureuse.jpg)
